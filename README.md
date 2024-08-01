@@ -29,12 +29,5 @@ Olá, eu sou Diogenes, um desenvolvedor fullstack apaixonado por criar soluçõe
   <img src="https://img.shields.io/badge/Sequelize-333333?style=flat&logo=sequelize&logoColor=52B0E7" alt="Sequelize" />
   <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=00758F" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-333333?style=flat&logo=express&logoColor=000000" alt="Express" />
-  <img src="https://img.shields.io/badge/Sequelize-333333?style=flat&logo=sequelize&logoColor=52B0E7" alt="Sequelize" />
-  <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=00758F" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-</p>
 </p>
