@@ -9,6 +9,7 @@ Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualme
   <img align="center" alt="diogenes-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="diogenes-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="diogenes-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="diogenes-typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
 </div>
 <br>
 <p>Tecnologias:</p>
@@ -20,7 +21,6 @@ Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualme
   <img align="center" alt="diogenes-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="diogenes-postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="diogenes-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="diogenes-typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
 </div>
 <br>
 <p>Contato:</p>
