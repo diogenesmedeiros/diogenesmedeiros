@@ -21,7 +21,7 @@ Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualme
   <img align="center" alt="diogenes-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="diogenes-postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="diogenes-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img aling="center" alt="diogenes-flutter" src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white?style=for-the-badge">
+  <img align="center" alt="diogenes-flutter" src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 <br>
 <p>Contato:</p>
