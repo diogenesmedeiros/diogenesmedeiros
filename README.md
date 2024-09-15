@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou Diógenes Júnior</h1>
 
 <p>
-Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualmente estou focado no aprendizado de ReactJS, Java com Spring Boot e C# com .NET. Tenho uma base sólida em linguagens de programação como Python, JavaScript e TypeScript, e também sei trabalhar com Node.js e Express. No que diz respeito a bancos de dados, utilizo MySQL e PostgreSQL e tenho experiência na criação de APIs. Estou sempre em busca de novas tecnologias para expandir minhas habilidades, com o objetivo de aprimorar tanto o desenvolvimento front-end quanto o back-end.
+Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualmente estou focado no aprendizado de ReactJS, Java com Spring Boot e C# com .NET. Também estou explorando o desenvolvimento mobile com Flutter. Tenho uma base sólida em linguagens de programação como Python, JavaScript e TypeScript, e sei trabalhar com Node.js e Express. No que diz respeito a bancos de dados, utilizo MySQL e PostgreSQL e tenho experiência na criação de APIs. Estou sempre em busca de novas tecnologias para expandir minhas habilidades, com o objetivo de aprimorar tanto o desenvolvimento front-end quanto o back-end.
 </p>
 <br>
 <p>Linguagens de Programação:</p>
