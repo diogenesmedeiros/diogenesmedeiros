@@ -10,6 +10,7 @@ Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualme
   <img align="center" alt="diogenes-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="diogenes-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="diogenes-typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
+  <img align="center" alt="diogenes-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br>
 <p>Tecnologias:</p>
@@ -23,6 +24,8 @@ Olá! Eu sou Diógenes Júnior, estudante de Ciência da Computação, e atualme
   <img align="center" alt="diogenes-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="diogenes-flutter" src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="diogenes-nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img align="center" alt="diogenes-sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&labelColor=52B0E7&logoColor=white">
+  <img align="center" alt="diogenes-firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 <br>
 <p>Contato:</p>
