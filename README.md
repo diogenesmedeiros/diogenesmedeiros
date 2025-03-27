@@ -1,6 +1,6 @@
 # Backend Developer | Diógenes Júnior
 
-👋 Olá! Sou **Diógenes Júnior**, um entusiasta do desenvolvimento de software, especialmente no **Back-End**. Atualmente, curso **Ciência da Computação** e estou sempre buscando aprimorar minhas habilidades em **arquitetura de software, APIs e microsserviços**.  
+Olá! Sou **Diógenes Júnior**, um entusiasta do desenvolvimento de software, especialmente no **Back-End**. Atualmente, curso **Ciência da Computação** e estou sempre buscando aprimorar minhas habilidades em **arquitetura de software, APIs e microsserviços**.  
 
 ---
 
