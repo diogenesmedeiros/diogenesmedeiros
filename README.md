@@ -6,11 +6,13 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
+### 👨‍💻 Linguagens
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 ### 🛠️ Ferramentas
@@ -29,6 +31,12 @@
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
+
+### 🏗️ Arquitetura & Padrões
+- 🧩 **Microsserviços** com Spring Boot e .NET
+- ⚡ **Mensageria** com RabbitMQ
+- 🌍 **APIs REST** escaláveis e performáticas
+- 🛠 **Containers & Orquestração** com Docker
 
 ---
 
@@ -61,11 +69,14 @@
 ## 📫 Contato
 
 <div align="center">
-  <a href="mailto:diogenes.medeiros.j@gmail.com">
+  <a href="mailto:diogenes.medeiros.j@gmail.com" target="__blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/diogenesmedeirosy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/diogenesmedeirosy/" target="__blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/diogenes.medeiros.y/" target="__blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
 
