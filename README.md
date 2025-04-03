@@ -60,10 +60,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesmedeiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
 ## 📫 Contact
-
 <div align="center">
   <a href="mailto:diogenes.medeiros.j@gmail.com" target="__blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
