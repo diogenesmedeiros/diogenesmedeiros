@@ -7,7 +7,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 
 ## 🚀 Skills
 ### 👨‍💻 CyberSecurity
-<p align="center"> 
+<p align="left"> 
   <div> 
     <img src="https://img.shields.io/badge/Penetration Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white">
     <img src="https://img.shields.io/badge/Ethical Hacking-007ACC?style=for-the-badge&logo=hackerone&logoColor=white">
@@ -20,7 +20,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 </p>
 
 ### 📝 Languages
-<p align="center">
+<p align="left">
   <div>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -31,7 +31,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 </p>
 
 ### 🛠️ Tools
-<p align="center">
+<p align="left">
   <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -43,7 +43,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 </p>
 
 ### 📚 Other technologies
-<p align="center">
+<p align="left">
   <div>
    <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -69,13 +69,13 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 !-->
 
 ## 📊 My GitHub
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogenesmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesmedeiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 📫 Contact
-<div align="center">
+<div align="left">
   <a href="mailto:diogenes.medeiros@softknight.com.br" target="__blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
