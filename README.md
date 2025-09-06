@@ -6,7 +6,20 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 * ✉️ You can email me here diogenes.medeiros@softknight.com.br
 
 ## 🚀 Skills
-### 👨‍💻 Languages
+### 👨‍💻 CyberSecurity
+<p align="left"> 
+  <div> 
+    <img src="https://img.shields.io/badge/Penetration Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white">
+    <img src="https://img.shields.io/badge/Ethical Hacking-007ACC?style=for-the-badge&logo=hackerone&logoColor=white">
+    <img src="https://img.shields.io/badge/Network Security-005C97?style=for-the-badge&logo=fortinet&logoColor=white">
+    <img src="https://img.shields.io/badge/OWASP-EC1C24?style=for-the-badge&logo=owasp&logoColor=white">
+    <img src="https://img.shields.io/badge/Vulnerability Assessment-FFDD00?style=for-the-badge&logo=nmap&logoColor=black">
+    <img src="https://img.shields.io/badge/Cyber Threat Intelligence-4B8BBE?style=for-the-badge&logo=alienvault&logoColor=white">
+    <img src="https://img.shields.io/badge/Incident Response-8A2BE2?style=for-the-badge&logo=splunk&logoColor=white">
+  </div> 
+</p>
+
+### 📝 Languages
 <p align="left">
   <div>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -17,7 +30,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
   </div>
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 <p align="left">
   <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
