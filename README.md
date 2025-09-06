@@ -54,10 +54,10 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 </p>
 
 ### 🏗️ Architecture & Standards
-* 🧩 **Microservices** with Spring Boot
-* ⚡ **Messaging** with RabbitMQ
-* 🌍 **APIs REST** scalable and performant
-* 🛠 **Containers & Orchestration** with Docker
+* 🧩 **Microservices**
+* ⚡ **Messaging**
+* 🌍 **APIs REST**
+* 🛠 **Containers & Orchestration**
 
 <!--## 🌟 Projetos em Destaque
 
