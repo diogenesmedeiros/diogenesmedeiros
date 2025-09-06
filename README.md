@@ -25,8 +25,8 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Assembly-%23AA0000?style=for-the-badge&logo=asm&logoColor=white">
   </div>
 </p>
 
