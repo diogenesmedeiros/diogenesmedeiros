@@ -61,7 +61,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 
 ## 📫 Contact
 <div align="center">
-  <a href="mailto:diogenes.medeiros.j@gmail.com" target="__blank">
+  <a href="mailto:diogenes.medeiros@softknight.com.br" target="__blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/diogenesmedeirosy/" target="__blank">
