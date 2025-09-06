@@ -2,7 +2,6 @@
 Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially in **Back-End**. I'm currently studying **Computer Science** and I'm always looking to improve my skills in **software architecture, APIs and microservices**.
 
 * 🎓 **Computer Science** Student
-* 🔥 Passionate about **Back-End** development and software architecture 
 * ✉️ You can email me here diogenes.medeiros@softknight.com.br
 
 ## 🚀 Skills
