@@ -4,7 +4,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 * 🎓 **Computer Science** Student
 * ✉️ You can email me here diogenes.medeiros@softknight.com.br
 
-## Skills
+# Skills
 ### 👨‍💻 CyberSecurity
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="TryHackMe Badge">
