@@ -1,13 +1,15 @@
 # Backend Developer | Cyber Security
-Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially in **Back-End**. I'm currently studying **Computer Science** and I'm always looking to improve my skills in **software architecture, APIs and microservices**.
+Hello! I'm **Diógenes Júnior**, a software developer focused on **Back-End**. I'm currently studying **Computer Science** and constantly improving my skills in software architecture, APIs, microservices, and **cybersecurity**.
 
 * 🎓 **Computer Science** Student
 * ✉️ You can email me here diogenes.medeiros@softknight.com.br
 
 # Skills
 ### 👨‍💻 CyberSecurity
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="Your Image Badge" />
+<p align="center">  
+  <a href="https://tryhackme.com/p/zyz814" target="__blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="Your Image Badge" />
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Penetration Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white">
