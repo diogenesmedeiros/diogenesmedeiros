@@ -4,7 +4,8 @@ Hello! I'm **Diógenes Júnior**, a software developer focused on **Back-End**. 
 * 🎓 **Computer Science** Student
 * ✉️ You can email me here diogenes.medeiros@softknight.com.br
 
-# Skills
+---
+
 ### 👨‍💻 CyberSecurity
 <p align="center">  
   <a href="https://tryhackme.com/p/zyz814" target="_blank">
@@ -50,12 +51,14 @@ Hello! I'm **Diógenes Júnior**, a software developer focused on **Back-End**. 
 </p>
 
 ### 🏗️ Architecture & Standards
-* 🧩 **Microservices**
-* ⚡ **Messaging**
-* 🌍 **APIs REST**
-* 🛠 **Containers & Orchestration**
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Messaging-orange?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs_REST-green?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Containers_&_Orchestration-gray?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
-## 📊 My GitHub
+## 📊 My GitHub Status
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogenesmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenesmedeiros&layout=compact&langs_count=7&theme=dracula"/>
