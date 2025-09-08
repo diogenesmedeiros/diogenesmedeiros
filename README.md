@@ -7,7 +7,7 @@ Hello! I'm **Diógenes Júnior**, a software developer focused on **Back-End**. 
 # Skills
 ### 👨‍💻 CyberSecurity
 <p align="center">  
-  <a href="https://tryhackme.com/p/zyz814" target="__blank">
+  <a href="https://tryhackme.com/p/zyz814" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="Your Image Badge" />
   </a>
 </p>
