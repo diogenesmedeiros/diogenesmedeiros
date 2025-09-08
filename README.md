@@ -7,7 +7,7 @@ Hello! I'm **Diógenes Júnior**, a software development enthusiast, especially 
 # Skills
 ### 👨‍💻 CyberSecurity
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="TryHackMe Badge" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Penetration Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white">
