@@ -7,11 +7,6 @@ Hello! I'm **Diógenes Júnior**, a software developer focused on **Back-End**. 
 ---
 
 ### 👨‍💻 CyberSecurity
-<p align="center">  
-  <a href="https://tryhackme.com/p/zyz814" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/zyz814.png" alt="Your Image Badge" />
-  </a>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Penetration Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/Ethical Hacking-007ACC?style=for-the-badge&logo=hackerone&logoColor=white">
