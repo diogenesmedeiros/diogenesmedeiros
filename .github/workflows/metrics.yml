@@ -1,29 +1,34 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: GitHub Metrics
+
 on:
-  # Schedule updates (every 24 hours at midnight)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    - cron: "0 0 * * *"
+    
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["main", "master"]
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          user: CtorW
+          user: diogenesmedeiros
           template: classic
           base: header, activity, community, repositories, metadata, achievements
-          config_timezone: Asia/Manila
+          config_timezone: America/Sao_Paulo
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -35,11 +40,17 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+          plugin_stars: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
