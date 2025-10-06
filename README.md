@@ -3,6 +3,7 @@
 </a>
 
 <br>
+<br>
 
 <div align="center">
 
@@ -10,8 +11,6 @@
   [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg)](https://discord.com/users/MY_ID)
   [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/diogenesmedeirosy/)
 </div>
-
----
 
 <div align="center">
 
