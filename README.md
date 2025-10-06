@@ -10,6 +10,7 @@
   [![GitHub](./icons/github.svg)](https://github.com/diogenesmedeiros)
   [![Discord](./icons/discord.svg)](https://discord.com/users/562758552456921110)
   [![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/diogenesmedeirosy/)
+  [![HackTheBox](./icons/hackthebox.svg)](https://ctf.hackthebox.com/user/profile/819115)
   [![TryHackMe](./icons/tryhackme.svg)](https://tryhackme.com/p/zyz814)
 </div>
 
