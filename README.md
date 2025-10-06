@@ -22,9 +22,14 @@
 
 <div align="center">
 
-  ![CyberSecurity](https://img.shields.io/badge/Cyber_SEcurity-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)<br>
-  ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)
+  ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)<br>
+
   ![PenetrationTesting](https://img.shields.io/badge/Penetration_Testing-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![RedTeam](https://img.shields.io/badge/Red_Team-B22222?style=for-the-badge&logo=hackaday&logoColor=white)
+  ![ExploitDevelopment](https://img.shields.io/badge/Exploit_Development-FF4500?style=for-the-badge&logo=exploitdb&logoColor=white)
+  ![ReverseEngineering](https://img.shields.io/badge/Reverse_Engineering-808080?style=for-the-badge&logo=ghidra&logoColor=white)
+  ![MalwareAnalysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge&logo=protonmail&logoColor=white)
+  ![Forensics](https://img.shields.io/badge/Digital_Forensics-2E8B57?style=for-the-badge&logo=autopsy&logoColor=white)
   ![OWASP](https://img.shields.io/badge/OWASP-EC1C24?style=for-the-badge&logo=owasp&logoColor=white)
   ![VulnerabilityAssessment](https://img.shields.io/badge/Vulnerability_Assessment-FFDD00?style=for-the-badge&logo=nmap&logoColor=black)
 </div>
