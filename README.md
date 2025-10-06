@@ -7,9 +7,10 @@
 
 <div align="center">
 
-  [![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg)](https://github.com/diogenesmedeiros)
-  [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg)](https://discord.com/users/MY_ID)
-  [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/diogenesmedeirosy/)
+  [![GitHub](./icons/github.svg)](https://github.com/diogenesmedeiros)
+  [![Discord](./icons/discord.svg)](https://discord.com/users/562758552456921110)
+  [![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/diogenesmedeirosy/)
+  [![TryHackMe](./icons/tryhackme.svg)](https://tryhackme.com/p/zyz814)
 </div>
 
 <div align="center">
@@ -44,6 +45,7 @@
 
   ![Frameworks&Languages](https://img.shields.io/badge/Frameworks_&_Languages-005C99?style=for-the-badge&logo=LanguageTool&logoColor=white)<br>
   ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
