@@ -23,7 +23,7 @@ jobs:
 
           user: diogenesmedeiros
           template: classic
-          base: header, activity, community, repositories, metadata, achievements
+          base: repositories, metadata
           config_timezone: America/Sao_Paulo
 
           plugin_isocalendar: yes
@@ -45,10 +45,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
 
           plugin_stars: yes
           plugin_topics: yes
